@@ -1,4 +1,4 @@
-# zustand_todo_list
+# Zustand todo list
 
 ## Start project
 ```
